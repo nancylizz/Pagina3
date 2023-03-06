@@ -1,0 +1,41 @@
+body {
+	background-color: #ebcda9;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 58%;
+	width: 580px;
+}
+titulo{
+	font-family: 'Camera Obscura', sans-serif;                                             
+	font-size: 60px;
+	align-content: center;
+}
+table{
+	margin-left: 200px;
+	background-color: grey;
+	color: white;
+	text-align: center;
+	width: 700px;
+}
+th{
+	color: black;
+}
+verde{
+	color: green;
+}
+morado{
+	color: purple;
+}
+titulo2{
+	font-family: 'Camera Obscura', sans-serif;
+	font-size: 60px;
+	align-content: center;
+}
+titulo3{
+	font-family: 'Great Wishes', sans-serif;
+	font-size: 40px;
+	align-content: center;
+}
